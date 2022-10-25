@@ -1,0 +1,26 @@
+.animate__animated{
+    text-align: center;
+    color: black;
+}
+
+.navbar-brand{
+    margin-right: 690px;
+    font-size: 200%;
+}
+
+.nav-link{
+    margin: 20px;
+}
+
+.card{
+    margin: 75px;
+}
+
+.card-title{
+    font-weight: bold;
+}
+
+.footer {
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
